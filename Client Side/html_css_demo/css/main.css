@@ -1,0 +1,19 @@
+body {
+	font-family: verdana, helvetica, arial, san-serif;
+	background-color: #e3edff;
+	line-height: 125%;
+	padding: 15px;
+}
+p {	color: #000080;
+	font-size: small;
+}
+.tagline{
+	font-weight: italics;
+	font-family: georgia, "times new roman", serif;
+}
+h1{
+	font-family: "trebuchet MS", helvetica, arial, "san serif";
+}
+em {
+	
+}
